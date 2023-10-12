@@ -6,7 +6,12 @@
     "color": "blue",
     "image_slug": "sweatshirt-C-blue.png",
     "number_of_likes": 910,
-    "number_sales": 10
+    "number_sales": 10,
+    "categories": {
+      "lvl0": "Apparel",
+      "lvl1": "Apparel > Shirts",
+      "lvl2": "Apparel > Shirts > T-Shirts"
+    }
   },
   {
     "objectID": "sweatshirt-C-red",
@@ -15,7 +20,12 @@
     "color": "red",
     "image_slug": "sweatshirt-C-red.png",
     "number_of_likes": 515
-    "number_sales": 14
+    "number_sales": 14,
+    "categories": {
+      "lvl0": "Apparel",
+      "lvl1": "Apparel > Shirts",
+      "lvl2": "Apparel > Shirts > T-Shirts"
+    }
   },
   {
     "objectID": "sweatshirt-D-green",
@@ -24,7 +34,12 @@
     "color": "green",
     "image_slug": "sweatshirt-D-green.png",
     "number_of_likes": 393,
-    "number_sales": 10
+    "number_sales": 10,
+    "categories": {
+      "lvl0": "Apparel",
+      "lvl1": "Apparel > Shirts",
+      "lvl2": "Apparel > Shirts > T-Shirts"
+    }
   },
   {
     "objectID": "tshirt-A-blue",
@@ -33,7 +48,12 @@
     "color": "blue",
     "image_slug": "tshirt-A-blue.png",
     "number_of_likes": 960,
-    "number_sales": 12
+    "number_sales": 12,
+    "categories": {
+      "lvl0": "Apparel",
+      "lvl1": "Apparel > Shirts",
+      "lvl2": "Apparel > Shirts > T-Shirts"
+    }
   },
   {
     "objectID": "tshirt-A-green",
@@ -42,7 +62,12 @@
     "color": "green",
     "image_slug": "tshirt-A-green.png",
     "number_of_likes": 766,
-    "number_sales": 15
+    "number_sales": 15,
+    "categories": {
+      "lvl0": "Apparel",
+      "lvl1": "Apparel > Shirts",
+      "lvl2": "Apparel > Shirts > T-Shirts"
+    }
   },
   {
     "objectID": "tshirt-A-orange",
@@ -51,7 +76,12 @@
     "color": "orange",
     "image_slug": "tshirt-A-orange.png",
     "number_of_likes": 502,
-    "number_sales": 23
+    "number_sales": 23,
+    "categories": {
+      "lvl0": "Apparel",
+      "lvl1": "Apparel > Shirts",
+      "lvl2": "Apparel > Shirts > T-Shirts"
+    }
   },
   {
     "objectID": "tshirt-A-red",
@@ -60,7 +90,12 @@
     "color": "red",
     "image_slug": "tshirt-A-red.png",
     "number_of_likes": 757,
-    "number_sales": 1
+    "number_sales": 1,
+    "categories": {
+      "lvl0": "Apparel",
+      "lvl1": "Apparel > Shirts",
+      "lvl2": "Apparel > Shirts > T-Shirts"
+    }
   },
   {
     "objectID": "tshirt-A-teal",
@@ -69,7 +104,12 @@
     "color": "teal",
     "image_slug": "tshirt-A-teal.png",
     "number_of_likes": 529,
-    "number_sales": 54
+    "number_sales": 54,
+    "categories": {
+      "lvl0": "Apparel",
+      "lvl1": "Apparel > Shirts",
+      "lvl2": "Apparel > Shirts > T-Shirts"
+    }
   },
   {
     "objectID": "tshirt-A-yellow",
@@ -78,7 +118,12 @@
     "color": "yellow",
     "image_slug": "tshirt-A-yellow.png",
     "number_of_likes": 934,
-    "number_sales": 19
+    "number_sales": 19,
+    "categories": {
+      "lvl0": "Apparel",
+      "lvl1": "Apparel > Shirts",
+      "lvl2": "Apparel > Shirts > T-Shirts"
+    }
   },
   {
     "objectID": "tshirt-B-blue",
@@ -87,7 +132,12 @@
     "color": "blue",
     "image_slug": "tshirt-B-blue.png",
     "number_of_likes": 377,
-    "number_sales": 22
+    "number_sales": 22,
+    "categories": {
+      "lvl0": "Apparel",
+      "lvl1": "Apparel > Shirts",
+      "lvl2": "Apparel > Shirts > T-Shirts"
+    }
   },
   {
     "objectID": "tshirt-B-green",
@@ -96,7 +146,12 @@
     "color": "green",
     "image_slug": "tshirt-B-green.png",
     "number_of_likes": 211,
-    "number_sales": 76
+    "number_sales": 76,
+    "categories": {
+      "lvl0": "Apparel",
+      "lvl1": "Apparel > Shirts",
+      "lvl2": "Apparel > Shirts > T-Shirts"
+    }
   },
   {
     "objectID": "tshirt-B-orange",
@@ -105,7 +160,12 @@
     "color": "orange",
     "image_slug": "tshirt-B-orange.png",
     "number_of_likes": 934,
-    "number_sales": 16
+    "number_sales": 16,
+    "categories": {
+      "lvl0": "Apparel",
+      "lvl1": "Apparel > Shirts",
+      "lvl2": "Apparel > Shirts > T-Shirts"
+    }
   },
   {
     "objectID": "tshirt-B-red",
@@ -114,7 +174,12 @@
     "color": "red",
     "image_slug": "tshirt-B-red.png",
     "number_of_likes": 394,
-    "number_sales": 11
+    "number_sales": 11,
+    "categories": {
+      "lvl0": "Apparel",
+      "lvl1": "Apparel > Shirts",
+      "lvl2": "Apparel > Shirts > T-Shirts"
+    }
   },
   {
     "objectID": "tshirt-B-teal",
@@ -123,7 +188,12 @@
     "color": "teal",
     "image_slug": "tshirt-B-teal.png",
     "number_of_likes": 903,
-    "number_sales": 44
+    "number_sales": 44,
+    "categories": {
+      "lvl0": "Apparel",
+      "lvl1": "Apparel > Shirts",
+      "lvl2": "Apparel > Shirts > T-Shirts"
+    }
   },
   {
     "objectID": "tshirt-B-yellow",
@@ -132,6 +202,11 @@
     "color": "yellow",
     "image_slug": "tshirt-B-yellow.png",
     "number_of_likes": 729,
-    "number_sales": 33
+    "number_sales": 33,
+    "categories": {
+      "lvl0": "Apparel",
+      "lvl1": "Apparel > Shirts",
+      "lvl2": "Apparel > Shirts > T-Shirts"
+    }
   }
 ]
