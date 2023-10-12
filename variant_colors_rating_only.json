@@ -1,0 +1,62 @@
+[
+  {
+    "objectID": "sweatshirt-C-blue",
+    "rating": 4.2
+  },
+  {
+    "objectID": "sweatshirt-C-red",
+    "rating": 4.5
+  },
+  {
+    "objectID": "sweatshirt-D-green",
+    "rating": 3.2
+  },
+  {
+    "objectID": "tshirt-A-blue",
+    "rating": 4.0
+  },
+  {
+    "objectID": "tshirt-A-green",
+    "rating": 4.9
+  },
+  {
+    "objectID": "tshirt-A-orange",
+    "rating": 2.8
+  },
+  {
+    "objectID": "tshirt-A-red",
+    "rating": 4.5
+  },
+  {
+    "objectID": "tshirt-A-teal",
+    "rating": 3.7
+  },
+  {
+    "objectID": "tshirt-A-yellow",
+    "rating": 3.7
+  },
+  {
+    "objectID": "tshirt-B-blue",
+    "rating": 3.7
+  },
+  {
+    "objectID": "tshirt-B-green",
+    "rating": 4.1
+  },
+  {
+    "objectID": "tshirt-B-orange",
+    "rating": 4.6
+  },
+  {
+    "objectID": "tshirt-B-red",
+    "rating": 4.0
+  },
+  {
+    "objectID": "tshirt-B-teal",
+    "rating": 3.8
+  },
+  {
+    "objectID": "tshirt-B-yellow",
+    "rating": 3.2
+  }
+]
