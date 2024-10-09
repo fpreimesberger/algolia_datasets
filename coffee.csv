@@ -1,0 +1,79 @@
+objectID,name,roast,species,type,flavorNotes,countryOrigin,flavored,price,salesRank,rating
+1111,Morning Blend,Medium,Arabica,Blend,"[""Chocolate"", ""Raisins"", ""Caramel""]","[""Costa Rica"", ""Indonesia""]",FALSE,13,99,4
+1112,Espresso Blend,Dark,Arabica,Blend,"[""Wine"" , ""Fruity""]","[""Ethiopia"", ""Indonesia""]",FALSE,13,99,5
+3333,Pumpkin Spice Coffee,Dark,Arabica,Blend,"[""Spicy"", ""Sweet""]","[""Costa Rica"", ""Indonesia""]",TRUE,14,65,5
+4444,Creme Brulee Coffee,Dark,Arabica,Blend,"[""Sweet"", ""Caramel"", ""Brown Sugar""]","[""Costa Rica"", ""Indonesia""]",FALSE,14,64,5
+1113,Ethiopian Yirgacheffe,Light,Arabica,Single Origin,"[""Citrus"" , ""Floral""]",Ethiopia,FALSE,15,93,5
+1114,Colombian Supremo,Medium,Arabica,Single Origin,"[""Chocolate"" , ""Caramel""]",Colombia,FALSE,15,84,5
+1115,Sumatra Mandheling,Dark,Arabica,Single Origin,"[""Earthy"" , ""Spicy""]",Indonesia,FALSE,15,63,3
+1116,Brazil Santos,Medium,Arabica,Single Origin,"[""Nutty"" , ""Sweet""]",Brazil,FALSE,15,95,3
+1117,Guatemalan Antigua,Medium,Arabica,Single Origin,"[""Chocolate"" , ""Nutty""]",Guatemala,FALSE,15,54,2
+1118,Kenyan AA,Light,Arabica,Single Origin,"[""Berry"" , ""Citrus""]",Kenya,FALSE,15,90,3
+1119,Honduran SHG,Medium,Arabica,Single Origin,"[""Cocoa"" , ""Honey""]",Honduras,FALSE,15,58,5
+1120,Costa Rican Tarrazú,Medium,Arabica,Single Origin,"[""Bright"" , ""Fruity""]",Costa Rica,FALSE,15,59,4
+1121,Panama Geisha,Light,Arabica,Single Origin,"[""Floral"" , ""Jasmine""]",Panama,FALSE,15,99,3
+1122,Nicaragua Jinotega,Medium,Arabica,Single Origin,"[""Caramel"" , ""Nutty""]",Nicaragua,FALSE,15,51,5
+1123,Mexican Altura,Medium,Arabica,Single Origin,"[""Chocolate"" , ""Light""]",Mexico,FALSE,15,86,2
+1124,Peruvian Chanchamayo,Medium,Arabica,Single Origin,"[""Citrus"" , ""Chocolate""]",Peru,FALSE,15,92,2
+1125,Rwandan Bourbon,Light,Arabica,Single Origin,"[""Floral"" , ""Berry""]",Rwanda,FALSE,15,89,4
+1126,Tanzanian Peaberry,Medium,Arabica,Single Origin,"[""Juicy"" , ""Bright""]",Tanzania,FALSE,15,73,3
+1127,Vietnamese Robusta,Dark,Robusta,Single Origin,"[""Earthy"" , ""Bold""]",Vietnam,FALSE,15,56,4
+1128,Ethiopian Sidamo,Medium,Arabica,Single Origin,"[""Berry"" , ""Floral""]",Ethiopia,FALSE,15,56,3
+1129,Indian Monsooned Malabar,Medium,Arabica,Single Origin,"[""Spicy"" , ""Earthy""]",India,FALSE,15,67,5
+1130,Jamaican Blue Mountain,Light,Arabica,Single Origin,"[""Smooth"" , ""Mild""]",Jamaica,FALSE,15,81,2
+1131,El Salvador Pacamara,Medium,Arabica,Single Origin,"[""Bright"" , ""Citrus""]",El Salvador,FALSE,15,66,3
+1132,Dominican Republic Barahona,Medium,Arabica,Single Origin,"[""Chocolate"" , ""Nutty""]",Dominican Republic,FALSE,15,60,3
+1133,Guatemalan Huehuetenango,Medium,Arabica,Single Origin,"[""Caramel"" , ""Chocolate""]",Guatemala,FALSE,15,81,4
+1134,Sumatran Lintong,Dark,Arabica,Single Origin,"[""Earthy"" , ""Complex""]",Indonesia,FALSE,15,70,3
+1135,Colombian Medellin,Medium,Arabica,Single Origin,"[""Nutty"" , ""Sweet""]",Colombia,FALSE,15,67,2
+1136,Brazil Cerrado,Medium,Arabica,Single Origin,"[""Chocolate"" , ""Nutty""]",Brazil,FALSE,15,63,3
+1137,Costa Rican La Minita,Medium,Arabica,Single Origin,"[""Floral"" , ""Honey""]",Costa Rica,FALSE,15,99,3
+1138,Kenyan AB,Light,Arabica,Single Origin,"[""Berry"" , ""Wine""]",Kenya,FALSE,15,98,3
+1139,Honduran Marcala,Medium,Arabica,Single Origin,"[""Sweet"" , ""Fruity""]",Honduras,FALSE,15,97,4
+1140,Ethiopian Harrar,Medium,Arabica,Single Origin,"[""Wine"" , ""Fruity""]",Ethiopia,FALSE,15,50,4
+1141,Peruvian Puno,Medium,Arabica,Single Origin,"[""Chocolate"" , ""Caramel""]",Peru,FALSE,15,51,5
+1142,Rwandan Dukunde Kawa,Medium,Arabica,Single Origin,"[""Floral"" , ""Sweet""]",Rwanda,FALSE,15,68,5
+1143,Tanzanian Kilimanjaro,Medium,Arabica,Single Origin,"[""Juicy"" , ""Bright""]",Tanzania,FALSE,15,57,3
+1144,Vietnamese Arabica,Medium,Arabica,Single Origin,"[""Caramel"" , ""Nutty""]",Vietnam,FALSE,15,98,3
+1145,Papua New Guinea Sigri,Medium,Arabica,Single Origin,"[""Citrus"" , ""Earthy""]",Papua New Guinea,FALSE,16,68,2
+1146,Mexican Chiapas,Medium,Arabica,Single Origin,"[""Nutty"" , ""Sweet""]",Mexico,FALSE,16,92,3
+1147,Indian Kerala,Medium,Arabica,Single Origin,"[""Spicy"" , ""Sweet""]",India,FALSE,16,84,5
+1148,Ethiopian Ghimbi,Medium,Arabica,Single Origin,"[""Floral"" , ""Bright""]",Ethiopia,FALSE,16,88,4
+1149,Nicaraguan Segovia,Medium,Arabica,Single Origin,"[""Chocolate"" , ""Nutty""]",Nicaragua,FALSE,16,84,3
+1150,Brazil Bourbon Santos,Medium,Arabica,Single Origin,"[""Nutty"" , ""Sweet""]",Brazil,FALSE,16,68,4
+1151,Guatemalan San Marcos,Medium,Arabica,Single Origin,"[""Cocoa"" , ""Fruity""]",Guatemala,FALSE,16,78,4
+1152,Costa Rican Dota,Medium,Arabica,Single Origin,"[""Citrus"" , ""Bright""]",Costa Rica,FALSE,16,85,2
+1153,Kenyan Ruiru,Light,Arabica,Single Origin,"[""Blackcurrant"" , ""Citrus""]",Kenya,FALSE,16,83,5
+1154,Colombian Popayan,Medium,Arabica,Single Origin,"[""Chocolate"" , ""Nutty""]",Colombia,FALSE,16,98,5
+1155,Ethiopian Kafa,Medium,Arabica,Single Origin,"[""Floral"" , ""Berry""]",Ethiopia,FALSE,16,67,4
+1156,Honduran Comayagua,Medium,Arabica,Single Origin,"[""Nutty"" , ""Sweet""]",Honduras,FALSE,16,52,2
+1157,Panama Boquete,Light,Arabica,Single Origin,"[""Floral"" , ""Citrus""]",Panama,FALSE,16,72,3
+1158,Tanzanian Ngorongoro,Medium,Arabica,Single Origin,"[""Juicy"" , ""Bright""]",Tanzania,FALSE,16,88,3
+1159,Vietnamese Robusta,Dark,Robusta,Single Origin,"[""Earthy"" , ""Bold""]",Vietnam,FALSE,16,91,2
+1160,Peruvian Cajamarca,Medium,Arabica,Single Origin,"[""Chocolate"" , ""Sweet""]",Peru,FALSE,16,53,5
+1161,Rwandan Nyungwe,Medium,Arabica,Single Origin,"[""Berry"" , ""Sweet""]",Rwanda,FALSE,16,74,3
+1162,Brazil Fazenda,Medium,Arabica,Single Origin,"[""Nutty"" , ""Chocolate""]",Brazil,FALSE,16,51,5
+1163,Costa Rican Monteverde,Medium,Arabica,Single Origin,"[""Citrus"" , ""Sweet""]",Costa Rica,FALSE,16,100,3
+1164,Ethiopian Sidamo,Medium,Arabica,Single Origin,"[""Floral"" , ""Citrus""]",Ethiopia,FALSE,16,90,3
+1165,Kenyan Nyeri,Light,Arabica,Single Origin,"[""Bright"" , ""Berry""]",Kenya,FALSE,16,60,5
+1166,Colombian Sierra Nevada,Medium,Arabica,Single Origin,"[""Chocolate"" , ""Earthy""]",Colombia,FALSE,16,77,3
+1167,Sumatra Aceh,Dark,Arabica,Single Origin,"[""Earthy"" , ""Spicy""]",Indonesia,FALSE,16,64,5
+1168,Guatemalan Atitlan,Medium,Arabica,Single Origin,"[""Cocoa"" , ""Nutty""]",Guatemala,FALSE,16,70,3
+1169,Honduran La Paz,Medium,Arabica,Single Origin,"[""Caramel"" , ""Fruity""]",Honduras,FALSE,16,71,5
+1170,Jamaican High Mountain,Light,Arabica,Single Origin,"[""Mellow"" , ""Sweet""]",Jamaica,FALSE,16,98,4
+1171,Ethiopian Shakiso,Light,Arabica,Single Origin,"[""Floral"" , ""Berry""]",Ethiopia,FALSE,16,50,4
+1172,Tanzanian Ruvuma,Medium,Arabica,Single Origin,"[""Juicy"" , ""Bright""]",Tanzania,FALSE,16,88,3
+1173,Indian Mysore,Medium,Arabica,Single Origin,"[""Nutty"" , ""Spicy""]",India,FALSE,16,53,5
+1174,Peruvian Junin,Medium,Arabica,Single Origin,"[""Chocolate"" , ""Caramel""]",Peru,FALSE,16,95,4
+1175,Brazil Monte Verde,Medium,Arabica,Single Origin,"[""Nutty"" , ""Sweet""]",Brazil,FALSE,16,63,4
+1176,Colombian Tolima,Medium,Arabica,Single Origin,"[""Cocoa"" , ""Fruity""]",Colombia,FALSE,16,85,3
+1177,Costa Rican Brunca,Medium,Arabica,Single Origin,"[""Citrus"" , ""Bright""]",Costa Rica,FALSE,16,66,2
+1178,Kenyan Mbuni,Light,Arabica,Single Origin,"[""Berry"" , ""Floral""]",Kenya,FALSE,16,78,2
+1179,Nicaraguan Nueva Segovia,Medium,Arabica,Single Origin,"[""Chocolate"" , ""Nutty""]",Nicaragua,FALSE,16,87,5
+1180,Ethiopian Limu,Medium,Arabica,Single Origin,"[""Floral"" , ""Citrus""]",Ethiopia,FALSE,17,51,4
+1181,Vietnamese Da Lat,Medium,Arabica,Single Origin,"[""Caramel"" , ""Nutty""]",Vietnam,FALSE,17,84,3
+1182,Rwandan Kivu,Medium,Arabica,Single Origin,"[""Berry"" , ""Sweet""]",Rwanda,FALSE,17,85,4
+1183,Brazil Fazenda Santa Ines,Medium,Arabica,Single Origin,"[""Nutty"" , ""Chocolate""]",Brazil,FALSE,17,92,2
+1184,Peruvian Valleys,Medium,Arabica,Single Origin,"[""Cocoa"" , ""Sweet""]",Peru,FALSE,17,62,3
+1185,Colombian Quindio,Medium,Arabica,Single Origin,"[""Chocolate"" , ""Fruity""]",Colombia,FALSE,17,85,2
+1186,Sumatra Gayo,Dark,Arabica,Single Origin,"[""Earthy"" , ""Spicy""]",Indonesia,FALSE,17,76,2
