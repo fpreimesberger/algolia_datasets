@@ -1,7 +1,7 @@
-objectID,name,roast,species,type,flavorNotes,countryOrigin,flavored,price,salesRank,rating,popularity
-1111,Morning Blend,Medium,Arabica,Blend,"[""Chocolate"", ""Raisins"", ""Caramel""]","[""Costa Rica"", ""Indonesia""]",FALSE,13,99,4,77
-1112,Espresso Blend,Dark,Arabica,Blend,"[""Wine"" , ""Fruity""]","[""Ethiopia"", ""Indonesia""]",FALSE,13,99,5,55
-3333,Pumpkin Spice Coffee,Dark,Arabica,Blend,"[""Spicy"", ""Sweet""]","[""Costa Rica"", ""Indonesia""]",TRUE,14,65,5,44
-4444,Creme Brulee Coffee,Dark,Arabica,Blend,"[""Sweet"", ""Caramel"", ""Brown Sugar""]","[""Costa Rica"", ""Indonesia""]",FALSE,14,64,5,99
-1113,Ethiopian Yirgacheffe,Light,Arabica,Single Origin,"[""Citrus"" , ""Floral""]",Ethiopia,FALSE,15,93,5,85
-1114,Colombian Supremo,Medium,Arabica,Single Origin,"[""Chocolate"" , ""Caramel""]",Colombia,FALSE,15,84,5,56
+objectID,popularity
+1111,77
+1112,55
+3333,44
+4444,99
+1113,85
+1114,56
